@@ -1,0 +1,5 @@
+package com.example.training.addition;
+
+public @interface RequestMapping {
+
+}
